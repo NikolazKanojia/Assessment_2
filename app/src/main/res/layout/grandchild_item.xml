@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:padding="8dp">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <!-- Left side: Checkbox -->
+            <CheckBox
+                android:layout_marginTop="5dp"
+                android:id="@+id/cbSelect"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:buttonTint="#2196F3"
+                android:focusableInTouchMode="false" />
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/ivGrandchildImage"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:contentDescription="Profile Image"
+                android:scaleType="centerCrop"
+                app:shapeAppearanceOverlay="@style/roundImage"
+                android:src="@drawable/watch"/>
+            <!-- Middle: Grandchild Text -->
+            <TextView
+                android:id="@+id/tvGrandChildName"
+                android:layout_width="0dp"
+                android:layout_marginLeft="15dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="UserName"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+        <TextView
+            android:id="@+id/tvGrandChildJob"
+            android:layout_marginLeft="88dp"
+            android:layout_marginTop="25dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:text="job title"/>
+    </FrameLayout>
+
+
+
+
+
+</LinearLayout>

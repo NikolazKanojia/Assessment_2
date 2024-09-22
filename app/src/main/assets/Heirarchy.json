@@ -1,0 +1,154 @@
+[
+  {
+    "type" : "office",
+    "image" : "https:\/\/s3-ap-southeast-2.amazonaws.com\/repcard\/offices\/3bebecb17bfa7bdceebf83d974ee55d4.png",
+    "items" : [
+      {
+        "id" : 48,
+        "type" : "team",
+        "title" : "T11",
+        "items" : [
+          {
+            "type" : "user",
+            "image" : "https:\/\/s3-ap-southeast-2.amazonaws.com\/repcard\/users\/0JQ2U17120671100271.jpg",
+            "title" : "Ankit pal",
+            "id" : 1035
+          }
+        ]
+      }
+    ],
+    "id" : 160,
+    "title" : "Coperate Location"
+  },
+  {
+    "type" : "office",
+    "image" : "https:\/\/s3-ap-southeast-2.amazonaws.com\/repcard\/offices\/4066184e83a91edd0f20f9c319c85329.png",
+    "items" : [
+      {
+        "id" : 101,
+        "type" : "team",
+        "title" : "Team 1",
+        "items" : [
+          {
+            "title" : "Jitender Thakur",
+            "id" : 2,
+            "image" : "https:\/\/s3-ap-southeast-2.amazonaws.com\/repcard\/users\/dJEID16856188417637.jpg",
+            "type" : "user"
+          },
+          {
+            "title" : "NR Ashwin",
+            "id" : 2417,
+            "image" : "",
+            "type" : "user"
+          },
+          {
+            "title" : "ShashankTest Garg",
+            "id" : 2486,
+            "image" : "",
+            "type" : "user"
+          },
+          {
+            "image" : "",
+            "id" : 2543,
+            "title" : "Chat Test1",
+            "type" : "user"
+          },
+          {
+            "image" : "https:\/\/s3-ap-southeast-2.amazonaws.com\/repcard\/users\/c4k5q17212238585099.jpg",
+            "id" : 2544,
+            "title" : "Test Reaction2",
+            "type" : "user"
+          },
+          {
+            "image" : "",
+            "id" : 2547,
+            "title" : "Ashish Gupta Test 1",
+            "type" : "user"
+          },
+          {
+            "image" : "",
+            "id" : 2552,
+            "title" : "pk Nagar",
+            "type" : "user"
+          },
+          {
+            "image" : "",
+            "id" : 2607,
+            "title" : "New User",
+            "type" : "user"
+          },
+          {
+            "image" : "",
+            "id" : 2629,
+            "title" : "import customers",
+            "type" : "user"
+          },
+          {
+            "image" : "",
+            "id" : 2640,
+            "title" : "Aman sinha",
+            "type" : "user"
+          }
+        ]
+      },
+      {
+        "id" : 390,
+        "items" : [
+          {
+            "id" : 128,
+            "image" : "https:\/\/s3-ap-southeast-2.amazonaws.com\/repcard\/users\/eh99h16119246003119.jpg",
+            "type" : "user",
+            "title" : "SWAT M"
+          }
+        ],
+        "title" : "1",
+        "type" : "team"
+      },
+      {
+        "id" : 700,
+        "items" : [
+          {
+            "title" : "Bob Jones",
+            "image" : "",
+            "type" : "user",
+            "id" : 2643
+          },
+          {
+            "title" : "Bob Jones",
+            "image" : "",
+            "type" : "user",
+            "id" : 2644
+          },
+          {
+            "title" : "Bob Jones",
+            "image" : "",
+            "type" : "user",
+            "id" : 2645
+          },
+          {
+            "title" : "Bob Jones",
+            "image" : "",
+            "type" : "user",
+            "id" : 2646
+          },
+          {
+            "title" : "Bob Jones",
+            "image" : "",
+            "type" : "user",
+            "id" : 2647
+          },
+          {
+            "title" : "Bob Jones",
+            "image" : "",
+            "type" : "user",
+            "id" : 2652
+          }
+        ],
+        "type" : "team",
+        "title" : "Sales Team"
+      }
+    ],
+    "id" : 6,
+    "title" : "Corporate Location"
+  }
+]
